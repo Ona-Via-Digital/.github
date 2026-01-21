@@ -13,6 +13,10 @@ We're a multi-disciplinary agency helping startups and small businesses bring cl
 - **Internal Tools & Systems** — Knowledge bases, workflows, operational infrastructure
 - **Digital Strategy** — Helping you figure out what to build and why
 
+## Our Name
+
+*Ona* (Yoruba) + *Via* (Latin) — two languages, one meaning: **the path forward**.
+
 ## Get in Touch
 
 - 🌐 [onaviadigital.com](https://onaviadigital.com)
